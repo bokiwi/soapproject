@@ -200,7 +200,7 @@ footer {
     }
     .hero_content_text {
         gap: 2vw;
-
+        font-size: 1rem;
     }
     .project {
         flex-direction: column ;
@@ -227,6 +227,7 @@ footer {
     height: auto; 
     }
 }
+
 
 
 
